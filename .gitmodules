@@ -1,0 +1,3 @@
+[submodule "sedcli"]
+	path = sedcli
+	url = https://github.com/sedcli/sedcli.git
